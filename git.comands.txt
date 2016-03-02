@@ -1,0 +1,40 @@
+using Git bash 
+
+
+change directory 
+
+F:\Gitrepo
+
+
+initialize 
+
+
+git init
+
+
+to add file 
+
+
+git add (file-name)
+
+
+or
+
+
+git add . 	// for all files 
+
+
+
+To commit file 
+
+git commit -m 'file cuccessful'
+
+
+
+PUSH commands on github 
+
+
+git remote add origin https://github.com/omer019/MyTestrepo.git
+
+git push -u origin master
+
